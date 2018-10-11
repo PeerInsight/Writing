@@ -12,6 +12,41 @@
       "sections": [
         {"name":"在学习之前"}
       ]
+    },
+    {
+      "name": "Checkpoint 1",
+      "content": "Chapter2.md",
+      "sections": [
+        {"name":"Day1"}
+      ]
+    },
+    {
+      "name": "Checkpoint 2",
+      "content": "Chapter3.md",
+      "sections": [
+        {"name":"Day2"}
+      ]
+    },
+    {
+      "name": "Checkpoint 3",
+      "content": "Chapter4.md",
+      "sections": [
+        {"name":"Day4"}
+      ]
+    },
+    {
+      "name": "Checkpoint 4",
+      "content": "Chapter5.md",
+      "sections": [
+        {"name":"Day4"}
+      ]
+    },
+    {
+      "name": "Checkpoint 5",
+      "content": "Chapter6.md",
+      "sections": [
+        {"name":"Day5"}
+      ]
     }
   ]
 }
